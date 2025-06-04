@@ -1,0 +1,7 @@
+Copyright (c) 2025 [Luis Philipe]
+
+All rights reserved.
+
+This software is licensed, not sold. You may not modify, distribute, reverse engineer, or sublicense this software without explicit permission from the author.
+
+This program is provided “as is” without warranty of any kind, express or implied. Use at your own risk.
